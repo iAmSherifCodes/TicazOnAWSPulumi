@@ -1,0 +1,6 @@
+config:
+  aws:region: us-east-1
+  sherifOnPulumi:errorDocument: error.html
+  sherifOnPulumi:indexDocument: index.html
+  sherifOnPulumi:path: www/frontend/dist
+  # sherifOnPulumi:path: /home/cash/Downloads/sherifecomm/sherifecomm/frontend/dist
