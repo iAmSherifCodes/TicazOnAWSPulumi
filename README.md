@@ -63,7 +63,7 @@ cd TicazOnAWSPulumi
 ### 2. Install Dependencies
 
 ```bash
-cd frontend
+cd www/frontend
 npm install
 ```
 
